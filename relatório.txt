@@ -1,5 +1,8 @@
 
+
 RELATÓRIO EXERCICIO II
+
+FERNANDO ACCORSI 
 git config --global user.name "Usuario" - Identificar o usuario
 git config --global user.email "EMAIL do Usuario" - Identificar email do usuario
 mkdir "nomedapasta" - (Criar a pasta)
@@ -13,6 +16,30 @@ git push - pra enviar o aquivo pro github
 git mv arquivoNomeAntigo.ext arquivoNomeNovo.ext (renomear arquivo)
 touch "nome do arquivo.txt" (criar arquivo)   
 vi "nome do arquivo.txt" (editando o arquivo criado) 
+git add "arquivo.txt" - para add no stage
+git commit -m "comentario" - pra comitar pro repositorio
+git push (enviar para o hub)
+LOGIN
+Email:email do usuário
+Senha:********
+
+
+
+LUIZ FELIPE PIO
+RELATÓRIO EXERCICIO II
+git config --global user.name "Usuario" - Identificar o usuario
+git config --global user.email "EMAIL do Usuario" - Identificar email do usuario
+mkdir "nomedapasta" - (Criar a pasta)
+cd "nomedapasta" - para acessar a pasta
+git init -iniciar o repositório
+touch "nome do arquvo.txt" criar o arquivo
+vi "arquivo.txt" - para fazer inserção dos dados
+git add "arquivo.txt" - para add no stage
+git commit -m "comentario" - pra comitar pro repositorio
+git push - pra enviar o aquivo pro github
+git mv arquivoNomeAntigo.ext arquivoNomeNovo.ext (renomear arquivo)
+touch "nome do arquivo.txt" (criar arquivo)
+vi "nome do arquivo.txt" (editando o arquivo criado)
 git add "arquivo.txt" - para add no stage
 git commit -m "comentario" - pra comitar pro repositorio
 git push (enviar para o hub)
