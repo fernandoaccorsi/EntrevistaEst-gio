@@ -15,6 +15,9 @@ touch "nome do arquivo.txt" (criar arquivo)
 vi "nome do arquivo.txt" (editando o arquivo criado) 
 git add "arquivo.txt" - para add no stage
 git commit -m "comentario" - pra comitar pro repositorio
-
+git push (enviar para o hub)
+LOGIN
+Email:email do usuário
+Senha:********
 
 
